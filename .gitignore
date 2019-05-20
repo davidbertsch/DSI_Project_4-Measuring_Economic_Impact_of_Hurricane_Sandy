@@ -1,0 +1,5 @@
+# large dataset to be ignored
+/data/*
+
+# ignore .ds_store
+.DS_Store
